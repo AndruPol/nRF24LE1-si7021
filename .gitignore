@@ -1,0 +1,8 @@
+# Object files
+build/*
+tiny-AES128/dep/*
+tiny-AES128/lib/*
+tiny-AES128/obj/*
+.project
+.cproject
+!build/nrf24le1-si7021.bin
